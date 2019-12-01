@@ -1,0 +1,11 @@
+/Users/mark/Projects/functions/functions/bin/Debug/netcoreapp3.0/functions
+/Users/mark/Projects/functions/functions/bin/Debug/netcoreapp3.0/functions.deps.json
+/Users/mark/Projects/functions/functions/bin/Debug/netcoreapp3.0/functions.runtimeconfig.json
+/Users/mark/Projects/functions/functions/bin/Debug/netcoreapp3.0/functions.runtimeconfig.dev.json
+/Users/mark/Projects/functions/functions/bin/Debug/netcoreapp3.0/functions.dll
+/Users/mark/Projects/functions/functions/bin/Debug/netcoreapp3.0/functions.pdb
+/Users/mark/Projects/functions/functions/obj/Debug/netcoreapp3.0/functions.csprojAssemblyReference.cache
+/Users/mark/Projects/functions/functions/obj/Debug/netcoreapp3.0/functions.AssemblyInfoInputs.cache
+/Users/mark/Projects/functions/functions/obj/Debug/netcoreapp3.0/functions.AssemblyInfo.cs
+/Users/mark/Projects/functions/functions/obj/Debug/netcoreapp3.0/functions.dll
+/Users/mark/Projects/functions/functions/obj/Debug/netcoreapp3.0/functions.pdb

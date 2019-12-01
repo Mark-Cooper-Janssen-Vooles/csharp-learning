@@ -1,0 +1,11 @@
+/Users/mark/Projects/loopCountingChallenge/loopCountingChallenge/obj/Debug/netcoreapp3.0/loopCountingChallenge.csprojAssemblyReference.cache
+/Users/mark/Projects/loopCountingChallenge/loopCountingChallenge/obj/Debug/netcoreapp3.0/loopCountingChallenge.AssemblyInfoInputs.cache
+/Users/mark/Projects/loopCountingChallenge/loopCountingChallenge/obj/Debug/netcoreapp3.0/loopCountingChallenge.AssemblyInfo.cs
+/Users/mark/Projects/loopCountingChallenge/loopCountingChallenge/bin/Debug/netcoreapp3.0/loopCountingChallenge
+/Users/mark/Projects/loopCountingChallenge/loopCountingChallenge/bin/Debug/netcoreapp3.0/loopCountingChallenge.deps.json
+/Users/mark/Projects/loopCountingChallenge/loopCountingChallenge/bin/Debug/netcoreapp3.0/loopCountingChallenge.runtimeconfig.json
+/Users/mark/Projects/loopCountingChallenge/loopCountingChallenge/bin/Debug/netcoreapp3.0/loopCountingChallenge.runtimeconfig.dev.json
+/Users/mark/Projects/loopCountingChallenge/loopCountingChallenge/bin/Debug/netcoreapp3.0/loopCountingChallenge.dll
+/Users/mark/Projects/loopCountingChallenge/loopCountingChallenge/bin/Debug/netcoreapp3.0/loopCountingChallenge.pdb
+/Users/mark/Projects/loopCountingChallenge/loopCountingChallenge/obj/Debug/netcoreapp3.0/loopCountingChallenge.dll
+/Users/mark/Projects/loopCountingChallenge/loopCountingChallenge/obj/Debug/netcoreapp3.0/loopCountingChallenge.pdb

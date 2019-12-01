@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{876D435F-8E95-4D4F-B858-94607E0CE19B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="loopCountingChallenge/Program.cs">
+    <Files>
+      <File FileName="loopCountingChallenge/Program.cs" Line="24" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="loopCountingChallenge" expanded="True">
+            <Node name="loopCountingChallenge" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.loopCountingChallenge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

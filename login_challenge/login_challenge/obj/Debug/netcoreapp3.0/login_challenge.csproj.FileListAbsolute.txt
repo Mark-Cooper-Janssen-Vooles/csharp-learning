@@ -1,0 +1,11 @@
+/Users/mark/Projects/login_challenge/login_challenge/bin/Debug/netcoreapp3.0/login_challenge
+/Users/mark/Projects/login_challenge/login_challenge/bin/Debug/netcoreapp3.0/login_challenge.deps.json
+/Users/mark/Projects/login_challenge/login_challenge/bin/Debug/netcoreapp3.0/login_challenge.runtimeconfig.json
+/Users/mark/Projects/login_challenge/login_challenge/bin/Debug/netcoreapp3.0/login_challenge.runtimeconfig.dev.json
+/Users/mark/Projects/login_challenge/login_challenge/bin/Debug/netcoreapp3.0/login_challenge.dll
+/Users/mark/Projects/login_challenge/login_challenge/bin/Debug/netcoreapp3.0/login_challenge.pdb
+/Users/mark/Projects/login_challenge/login_challenge/obj/Debug/netcoreapp3.0/login_challenge.csprojAssemblyReference.cache
+/Users/mark/Projects/login_challenge/login_challenge/obj/Debug/netcoreapp3.0/login_challenge.AssemblyInfoInputs.cache
+/Users/mark/Projects/login_challenge/login_challenge/obj/Debug/netcoreapp3.0/login_challenge.AssemblyInfo.cs
+/Users/mark/Projects/login_challenge/login_challenge/obj/Debug/netcoreapp3.0/login_challenge.dll
+/Users/mark/Projects/login_challenge/login_challenge/obj/Debug/netcoreapp3.0/login_challenge.pdb

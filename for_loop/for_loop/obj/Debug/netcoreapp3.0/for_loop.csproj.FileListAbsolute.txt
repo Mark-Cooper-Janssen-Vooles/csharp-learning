@@ -1,0 +1,11 @@
+/Users/mark/Projects/for_loop/for_loop/bin/Debug/netcoreapp3.0/for_loop
+/Users/mark/Projects/for_loop/for_loop/bin/Debug/netcoreapp3.0/for_loop.deps.json
+/Users/mark/Projects/for_loop/for_loop/bin/Debug/netcoreapp3.0/for_loop.runtimeconfig.json
+/Users/mark/Projects/for_loop/for_loop/bin/Debug/netcoreapp3.0/for_loop.runtimeconfig.dev.json
+/Users/mark/Projects/for_loop/for_loop/bin/Debug/netcoreapp3.0/for_loop.dll
+/Users/mark/Projects/for_loop/for_loop/bin/Debug/netcoreapp3.0/for_loop.pdb
+/Users/mark/Projects/for_loop/for_loop/obj/Debug/netcoreapp3.0/for_loop.csprojAssemblyReference.cache
+/Users/mark/Projects/for_loop/for_loop/obj/Debug/netcoreapp3.0/for_loop.AssemblyInfoInputs.cache
+/Users/mark/Projects/for_loop/for_loop/obj/Debug/netcoreapp3.0/for_loop.AssemblyInfo.cs
+/Users/mark/Projects/for_loop/for_loop/obj/Debug/netcoreapp3.0/for_loop.dll
+/Users/mark/Projects/for_loop/for_loop/obj/Debug/netcoreapp3.0/for_loop.pdb

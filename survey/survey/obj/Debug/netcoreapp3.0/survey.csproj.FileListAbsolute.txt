@@ -1,0 +1,11 @@
+/Users/mark/Projects/survey/survey/bin/Debug/netcoreapp3.0/survey
+/Users/mark/Projects/survey/survey/bin/Debug/netcoreapp3.0/survey.deps.json
+/Users/mark/Projects/survey/survey/bin/Debug/netcoreapp3.0/survey.runtimeconfig.json
+/Users/mark/Projects/survey/survey/bin/Debug/netcoreapp3.0/survey.runtimeconfig.dev.json
+/Users/mark/Projects/survey/survey/bin/Debug/netcoreapp3.0/survey.dll
+/Users/mark/Projects/survey/survey/bin/Debug/netcoreapp3.0/survey.pdb
+/Users/mark/Projects/survey/survey/obj/Debug/netcoreapp3.0/survey.csprojAssemblyReference.cache
+/Users/mark/Projects/survey/survey/obj/Debug/netcoreapp3.0/survey.AssemblyInfoInputs.cache
+/Users/mark/Projects/survey/survey/obj/Debug/netcoreapp3.0/survey.AssemblyInfo.cs
+/Users/mark/Projects/survey/survey/obj/Debug/netcoreapp3.0/survey.dll
+/Users/mark/Projects/survey/survey/obj/Debug/netcoreapp3.0/survey.pdb

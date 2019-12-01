@@ -1,0 +1,11 @@
+/Users/mark/Projects/schoolTracker/schoolTracker/bin/Debug/netcoreapp3.0/schoolTracker
+/Users/mark/Projects/schoolTracker/schoolTracker/bin/Debug/netcoreapp3.0/schoolTracker.deps.json
+/Users/mark/Projects/schoolTracker/schoolTracker/bin/Debug/netcoreapp3.0/schoolTracker.runtimeconfig.json
+/Users/mark/Projects/schoolTracker/schoolTracker/bin/Debug/netcoreapp3.0/schoolTracker.runtimeconfig.dev.json
+/Users/mark/Projects/schoolTracker/schoolTracker/bin/Debug/netcoreapp3.0/schoolTracker.dll
+/Users/mark/Projects/schoolTracker/schoolTracker/bin/Debug/netcoreapp3.0/schoolTracker.pdb
+/Users/mark/Projects/schoolTracker/schoolTracker/obj/Debug/netcoreapp3.0/schoolTracker.csprojAssemblyReference.cache
+/Users/mark/Projects/schoolTracker/schoolTracker/obj/Debug/netcoreapp3.0/schoolTracker.AssemblyInfoInputs.cache
+/Users/mark/Projects/schoolTracker/schoolTracker/obj/Debug/netcoreapp3.0/schoolTracker.AssemblyInfo.cs
+/Users/mark/Projects/schoolTracker/schoolTracker/obj/Debug/netcoreapp3.0/schoolTracker.dll
+/Users/mark/Projects/schoolTracker/schoolTracker/obj/Debug/netcoreapp3.0/schoolTracker.pdb

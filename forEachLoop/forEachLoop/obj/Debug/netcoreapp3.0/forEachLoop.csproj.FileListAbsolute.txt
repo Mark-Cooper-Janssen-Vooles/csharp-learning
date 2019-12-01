@@ -1,0 +1,11 @@
+/Users/mark/Projects/forEachLoop/forEachLoop/bin/Debug/netcoreapp3.0/forEachLoop
+/Users/mark/Projects/forEachLoop/forEachLoop/bin/Debug/netcoreapp3.0/forEachLoop.deps.json
+/Users/mark/Projects/forEachLoop/forEachLoop/bin/Debug/netcoreapp3.0/forEachLoop.runtimeconfig.json
+/Users/mark/Projects/forEachLoop/forEachLoop/bin/Debug/netcoreapp3.0/forEachLoop.runtimeconfig.dev.json
+/Users/mark/Projects/forEachLoop/forEachLoop/bin/Debug/netcoreapp3.0/forEachLoop.dll
+/Users/mark/Projects/forEachLoop/forEachLoop/bin/Debug/netcoreapp3.0/forEachLoop.pdb
+/Users/mark/Projects/forEachLoop/forEachLoop/obj/Debug/netcoreapp3.0/forEachLoop.csprojAssemblyReference.cache
+/Users/mark/Projects/forEachLoop/forEachLoop/obj/Debug/netcoreapp3.0/forEachLoop.AssemblyInfoInputs.cache
+/Users/mark/Projects/forEachLoop/forEachLoop/obj/Debug/netcoreapp3.0/forEachLoop.AssemblyInfo.cs
+/Users/mark/Projects/forEachLoop/forEachLoop/obj/Debug/netcoreapp3.0/forEachLoop.dll
+/Users/mark/Projects/forEachLoop/forEachLoop/obj/Debug/netcoreapp3.0/forEachLoop.pdb
