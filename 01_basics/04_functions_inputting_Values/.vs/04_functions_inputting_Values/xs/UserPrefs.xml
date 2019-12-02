@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FEA95F1A-097C-4B77-A67F-B3D2028FC40F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="04_functions_inputting_Values/Program.cs">
+    <Files>
+      <File FileName="04_functions_inputting_Values/Program.cs" Line="53" Column="93" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="04_functions_inputting_Values" expanded="True">
+            <Node name="04_functions_inputting_Values" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.04__functions__inputting__Values PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

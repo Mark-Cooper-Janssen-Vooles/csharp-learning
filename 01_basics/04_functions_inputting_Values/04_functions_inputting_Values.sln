@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_functions_inputting_Values", "04_functions_inputting_Values\04_functions_inputting_Values.csproj", "{FEA95F1A-097C-4B77-A67F-B3D2028FC40F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA95F1A-097C-4B77-A67F-B3D2028FC40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA95F1A-097C-4B77-A67F-B3D2028FC40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA95F1A-097C-4B77-A67F-B3D2028FC40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA95F1A-097C-4B77-A67F-B3D2028FC40F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

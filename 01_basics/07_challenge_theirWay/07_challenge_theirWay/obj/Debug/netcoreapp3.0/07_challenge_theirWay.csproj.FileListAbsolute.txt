@@ -1,0 +1,11 @@
+/Users/mark/Projects/07_challenge_theirWay/07_challenge_theirWay/obj/Debug/netcoreapp3.0/07_challenge_theirWay.csprojAssemblyReference.cache
+/Users/mark/Projects/07_challenge_theirWay/07_challenge_theirWay/obj/Debug/netcoreapp3.0/07_challenge_theirWay.AssemblyInfoInputs.cache
+/Users/mark/Projects/07_challenge_theirWay/07_challenge_theirWay/obj/Debug/netcoreapp3.0/07_challenge_theirWay.AssemblyInfo.cs
+/Users/mark/Projects/07_challenge_theirWay/07_challenge_theirWay/bin/Debug/netcoreapp3.0/07_challenge_theirWay
+/Users/mark/Projects/07_challenge_theirWay/07_challenge_theirWay/bin/Debug/netcoreapp3.0/07_challenge_theirWay.deps.json
+/Users/mark/Projects/07_challenge_theirWay/07_challenge_theirWay/bin/Debug/netcoreapp3.0/07_challenge_theirWay.runtimeconfig.json
+/Users/mark/Projects/07_challenge_theirWay/07_challenge_theirWay/bin/Debug/netcoreapp3.0/07_challenge_theirWay.runtimeconfig.dev.json
+/Users/mark/Projects/07_challenge_theirWay/07_challenge_theirWay/bin/Debug/netcoreapp3.0/07_challenge_theirWay.dll
+/Users/mark/Projects/07_challenge_theirWay/07_challenge_theirWay/bin/Debug/netcoreapp3.0/07_challenge_theirWay.pdb
+/Users/mark/Projects/07_challenge_theirWay/07_challenge_theirWay/obj/Debug/netcoreapp3.0/07_challenge_theirWay.dll
+/Users/mark/Projects/07_challenge_theirWay/07_challenge_theirWay/obj/Debug/netcoreapp3.0/07_challenge_theirWay.pdb

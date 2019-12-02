@@ -1,0 +1,11 @@
+/Users/mark/Projects/05_switchStatement/05_switchStatement/obj/Debug/netcoreapp3.0/05_switchStatement.csprojAssemblyReference.cache
+/Users/mark/Projects/05_switchStatement/05_switchStatement/obj/Debug/netcoreapp3.0/05_switchStatement.AssemblyInfoInputs.cache
+/Users/mark/Projects/05_switchStatement/05_switchStatement/obj/Debug/netcoreapp3.0/05_switchStatement.AssemblyInfo.cs
+/Users/mark/Projects/05_switchStatement/05_switchStatement/bin/Debug/netcoreapp3.0/05_switchStatement
+/Users/mark/Projects/05_switchStatement/05_switchStatement/bin/Debug/netcoreapp3.0/05_switchStatement.deps.json
+/Users/mark/Projects/05_switchStatement/05_switchStatement/bin/Debug/netcoreapp3.0/05_switchStatement.runtimeconfig.json
+/Users/mark/Projects/05_switchStatement/05_switchStatement/bin/Debug/netcoreapp3.0/05_switchStatement.runtimeconfig.dev.json
+/Users/mark/Projects/05_switchStatement/05_switchStatement/bin/Debug/netcoreapp3.0/05_switchStatement.dll
+/Users/mark/Projects/05_switchStatement/05_switchStatement/bin/Debug/netcoreapp3.0/05_switchStatement.pdb
+/Users/mark/Projects/05_switchStatement/05_switchStatement/obj/Debug/netcoreapp3.0/05_switchStatement.dll
+/Users/mark/Projects/05_switchStatement/05_switchStatement/obj/Debug/netcoreapp3.0/05_switchStatement.pdb

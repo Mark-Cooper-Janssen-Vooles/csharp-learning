@@ -1,0 +1,11 @@
+/Users/mark/Projects/08_collections/08_collections/bin/Debug/netcoreapp3.0/08_collections
+/Users/mark/Projects/08_collections/08_collections/bin/Debug/netcoreapp3.0/08_collections.deps.json
+/Users/mark/Projects/08_collections/08_collections/bin/Debug/netcoreapp3.0/08_collections.runtimeconfig.json
+/Users/mark/Projects/08_collections/08_collections/bin/Debug/netcoreapp3.0/08_collections.runtimeconfig.dev.json
+/Users/mark/Projects/08_collections/08_collections/bin/Debug/netcoreapp3.0/08_collections.dll
+/Users/mark/Projects/08_collections/08_collections/bin/Debug/netcoreapp3.0/08_collections.pdb
+/Users/mark/Projects/08_collections/08_collections/obj/Debug/netcoreapp3.0/08_collections.csprojAssemblyReference.cache
+/Users/mark/Projects/08_collections/08_collections/obj/Debug/netcoreapp3.0/08_collections.AssemblyInfoInputs.cache
+/Users/mark/Projects/08_collections/08_collections/obj/Debug/netcoreapp3.0/08_collections.AssemblyInfo.cs
+/Users/mark/Projects/08_collections/08_collections/obj/Debug/netcoreapp3.0/08_collections.dll
+/Users/mark/Projects/08_collections/08_collections/obj/Debug/netcoreapp3.0/08_collections.pdb

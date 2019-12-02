@@ -1,0 +1,11 @@
+/Users/mark/Projects/06_challenge/06_challenge/bin/Debug/netcoreapp3.0/06_challenge
+/Users/mark/Projects/06_challenge/06_challenge/bin/Debug/netcoreapp3.0/06_challenge.deps.json
+/Users/mark/Projects/06_challenge/06_challenge/bin/Debug/netcoreapp3.0/06_challenge.runtimeconfig.json
+/Users/mark/Projects/06_challenge/06_challenge/bin/Debug/netcoreapp3.0/06_challenge.runtimeconfig.dev.json
+/Users/mark/Projects/06_challenge/06_challenge/bin/Debug/netcoreapp3.0/06_challenge.dll
+/Users/mark/Projects/06_challenge/06_challenge/bin/Debug/netcoreapp3.0/06_challenge.pdb
+/Users/mark/Projects/06_challenge/06_challenge/obj/Debug/netcoreapp3.0/06_challenge.csprojAssemblyReference.cache
+/Users/mark/Projects/06_challenge/06_challenge/obj/Debug/netcoreapp3.0/06_challenge.AssemblyInfoInputs.cache
+/Users/mark/Projects/06_challenge/06_challenge/obj/Debug/netcoreapp3.0/06_challenge.AssemblyInfo.cs
+/Users/mark/Projects/06_challenge/06_challenge/obj/Debug/netcoreapp3.0/06_challenge.dll
+/Users/mark/Projects/06_challenge/06_challenge/obj/Debug/netcoreapp3.0/06_challenge.pdb

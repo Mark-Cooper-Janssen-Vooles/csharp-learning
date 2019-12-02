@@ -1,0 +1,11 @@
+/Users/mark/Projects/03_functionsWithReturnValues/functionsWithReturnValues/bin/Debug/netcoreapp3.0/functionsWithReturnValues
+/Users/mark/Projects/03_functionsWithReturnValues/functionsWithReturnValues/bin/Debug/netcoreapp3.0/functionsWithReturnValues.deps.json
+/Users/mark/Projects/03_functionsWithReturnValues/functionsWithReturnValues/bin/Debug/netcoreapp3.0/functionsWithReturnValues.runtimeconfig.json
+/Users/mark/Projects/03_functionsWithReturnValues/functionsWithReturnValues/bin/Debug/netcoreapp3.0/functionsWithReturnValues.runtimeconfig.dev.json
+/Users/mark/Projects/03_functionsWithReturnValues/functionsWithReturnValues/bin/Debug/netcoreapp3.0/functionsWithReturnValues.dll
+/Users/mark/Projects/03_functionsWithReturnValues/functionsWithReturnValues/bin/Debug/netcoreapp3.0/functionsWithReturnValues.pdb
+/Users/mark/Projects/03_functionsWithReturnValues/functionsWithReturnValues/obj/Debug/netcoreapp3.0/functionsWithReturnValues.csprojAssemblyReference.cache
+/Users/mark/Projects/03_functionsWithReturnValues/functionsWithReturnValues/obj/Debug/netcoreapp3.0/functionsWithReturnValues.AssemblyInfoInputs.cache
+/Users/mark/Projects/03_functionsWithReturnValues/functionsWithReturnValues/obj/Debug/netcoreapp3.0/functionsWithReturnValues.AssemblyInfo.cs
+/Users/mark/Projects/03_functionsWithReturnValues/functionsWithReturnValues/obj/Debug/netcoreapp3.0/functionsWithReturnValues.dll
+/Users/mark/Projects/03_functionsWithReturnValues/functionsWithReturnValues/obj/Debug/netcoreapp3.0/functionsWithReturnValues.pdb
