@@ -1,0 +1,11 @@
+/Users/mark/Projects/02_object_oriented_programming/05_namespaces/05_namespaces/bin/Debug/netcoreapp3.0/05_namespaces
+/Users/mark/Projects/02_object_oriented_programming/05_namespaces/05_namespaces/bin/Debug/netcoreapp3.0/05_namespaces.deps.json
+/Users/mark/Projects/02_object_oriented_programming/05_namespaces/05_namespaces/bin/Debug/netcoreapp3.0/05_namespaces.runtimeconfig.json
+/Users/mark/Projects/02_object_oriented_programming/05_namespaces/05_namespaces/bin/Debug/netcoreapp3.0/05_namespaces.runtimeconfig.dev.json
+/Users/mark/Projects/02_object_oriented_programming/05_namespaces/05_namespaces/bin/Debug/netcoreapp3.0/05_namespaces.dll
+/Users/mark/Projects/02_object_oriented_programming/05_namespaces/05_namespaces/bin/Debug/netcoreapp3.0/05_namespaces.pdb
+/Users/mark/Projects/02_object_oriented_programming/05_namespaces/05_namespaces/obj/Debug/netcoreapp3.0/05_namespaces.csprojAssemblyReference.cache
+/Users/mark/Projects/02_object_oriented_programming/05_namespaces/05_namespaces/obj/Debug/netcoreapp3.0/05_namespaces.AssemblyInfoInputs.cache
+/Users/mark/Projects/02_object_oriented_programming/05_namespaces/05_namespaces/obj/Debug/netcoreapp3.0/05_namespaces.AssemblyInfo.cs
+/Users/mark/Projects/02_object_oriented_programming/05_namespaces/05_namespaces/obj/Debug/netcoreapp3.0/05_namespaces.dll
+/Users/mark/Projects/02_object_oriented_programming/05_namespaces/05_namespaces/obj/Debug/netcoreapp3.0/05_namespaces.pdb

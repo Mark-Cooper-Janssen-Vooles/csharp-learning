@@ -1,0 +1,11 @@
+/Users/mark/Projects/02_object_oriented_programming/03_properties/03_properties/bin/Debug/netcoreapp3.0/03_properties
+/Users/mark/Projects/02_object_oriented_programming/03_properties/03_properties/bin/Debug/netcoreapp3.0/03_properties.deps.json
+/Users/mark/Projects/02_object_oriented_programming/03_properties/03_properties/bin/Debug/netcoreapp3.0/03_properties.runtimeconfig.json
+/Users/mark/Projects/02_object_oriented_programming/03_properties/03_properties/bin/Debug/netcoreapp3.0/03_properties.runtimeconfig.dev.json
+/Users/mark/Projects/02_object_oriented_programming/03_properties/03_properties/bin/Debug/netcoreapp3.0/03_properties.dll
+/Users/mark/Projects/02_object_oriented_programming/03_properties/03_properties/bin/Debug/netcoreapp3.0/03_properties.pdb
+/Users/mark/Projects/02_object_oriented_programming/03_properties/03_properties/obj/Debug/netcoreapp3.0/03_properties.csprojAssemblyReference.cache
+/Users/mark/Projects/02_object_oriented_programming/03_properties/03_properties/obj/Debug/netcoreapp3.0/03_properties.AssemblyInfoInputs.cache
+/Users/mark/Projects/02_object_oriented_programming/03_properties/03_properties/obj/Debug/netcoreapp3.0/03_properties.AssemblyInfo.cs
+/Users/mark/Projects/02_object_oriented_programming/03_properties/03_properties/obj/Debug/netcoreapp3.0/03_properties.dll
+/Users/mark/Projects/02_object_oriented_programming/03_properties/03_properties/obj/Debug/netcoreapp3.0/03_properties.pdb

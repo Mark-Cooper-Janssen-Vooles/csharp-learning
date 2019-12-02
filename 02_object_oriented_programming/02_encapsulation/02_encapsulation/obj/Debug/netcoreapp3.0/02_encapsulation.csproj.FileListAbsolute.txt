@@ -1,0 +1,11 @@
+/Users/mark/Projects/02_object_oriented_programming/02_encapsulation/02_encapsulation/obj/Debug/netcoreapp3.0/02_encapsulation.csprojAssemblyReference.cache
+/Users/mark/Projects/02_object_oriented_programming/02_encapsulation/02_encapsulation/obj/Debug/netcoreapp3.0/02_encapsulation.AssemblyInfoInputs.cache
+/Users/mark/Projects/02_object_oriented_programming/02_encapsulation/02_encapsulation/obj/Debug/netcoreapp3.0/02_encapsulation.AssemblyInfo.cs
+/Users/mark/Projects/02_object_oriented_programming/02_encapsulation/02_encapsulation/bin/Debug/netcoreapp3.0/02_encapsulation
+/Users/mark/Projects/02_object_oriented_programming/02_encapsulation/02_encapsulation/bin/Debug/netcoreapp3.0/02_encapsulation.deps.json
+/Users/mark/Projects/02_object_oriented_programming/02_encapsulation/02_encapsulation/bin/Debug/netcoreapp3.0/02_encapsulation.runtimeconfig.json
+/Users/mark/Projects/02_object_oriented_programming/02_encapsulation/02_encapsulation/bin/Debug/netcoreapp3.0/02_encapsulation.runtimeconfig.dev.json
+/Users/mark/Projects/02_object_oriented_programming/02_encapsulation/02_encapsulation/bin/Debug/netcoreapp3.0/02_encapsulation.dll
+/Users/mark/Projects/02_object_oriented_programming/02_encapsulation/02_encapsulation/bin/Debug/netcoreapp3.0/02_encapsulation.pdb
+/Users/mark/Projects/02_object_oriented_programming/02_encapsulation/02_encapsulation/obj/Debug/netcoreapp3.0/02_encapsulation.dll
+/Users/mark/Projects/02_object_oriented_programming/02_encapsulation/02_encapsulation/obj/Debug/netcoreapp3.0/02_encapsulation.pdb

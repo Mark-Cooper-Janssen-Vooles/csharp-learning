@@ -1,0 +1,11 @@
+/Users/mark/Projects/02_object_oriented_programming/04_static_members/04_static_members/bin/Debug/netcoreapp3.0/04_static_members
+/Users/mark/Projects/02_object_oriented_programming/04_static_members/04_static_members/bin/Debug/netcoreapp3.0/04_static_members.deps.json
+/Users/mark/Projects/02_object_oriented_programming/04_static_members/04_static_members/bin/Debug/netcoreapp3.0/04_static_members.runtimeconfig.json
+/Users/mark/Projects/02_object_oriented_programming/04_static_members/04_static_members/bin/Debug/netcoreapp3.0/04_static_members.runtimeconfig.dev.json
+/Users/mark/Projects/02_object_oriented_programming/04_static_members/04_static_members/bin/Debug/netcoreapp3.0/04_static_members.dll
+/Users/mark/Projects/02_object_oriented_programming/04_static_members/04_static_members/bin/Debug/netcoreapp3.0/04_static_members.pdb
+/Users/mark/Projects/02_object_oriented_programming/04_static_members/04_static_members/obj/Debug/netcoreapp3.0/04_static_members.csprojAssemblyReference.cache
+/Users/mark/Projects/02_object_oriented_programming/04_static_members/04_static_members/obj/Debug/netcoreapp3.0/04_static_members.AssemblyInfoInputs.cache
+/Users/mark/Projects/02_object_oriented_programming/04_static_members/04_static_members/obj/Debug/netcoreapp3.0/04_static_members.AssemblyInfo.cs
+/Users/mark/Projects/02_object_oriented_programming/04_static_members/04_static_members/obj/Debug/netcoreapp3.0/04_static_members.dll
+/Users/mark/Projects/02_object_oriented_programming/04_static_members/04_static_members/obj/Debug/netcoreapp3.0/04_static_members.pdb

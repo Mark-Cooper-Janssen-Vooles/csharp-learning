@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{374235F2-A431-4E13-BA68-09FC9605D0AD}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="01_introduction_to_OOP/Program.cs">
     <Files>
-      <File FileName="01_introduction_to_OOP/Program.cs" Line="12" Column="2" />
+      <File FileName="01_introduction_to_OOP/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,5 +21,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.01__introduction__to__OOP FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01__introduction__to__OOP PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

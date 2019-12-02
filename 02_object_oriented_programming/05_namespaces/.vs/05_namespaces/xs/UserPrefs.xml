@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{423209BC-1FAD-442A-B635-88A21A629161}|Default">
+  <MonoDevelop.Ide.ItemProperties.05__namespaces PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="05_namespaces/Console.cs">
+    <Files>
+      <File FileName="05_namespaces/Program.cs" Line="26" Column="39" />
+      <File FileName="05_namespaces/Console.cs" Line="7" Column="71" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="05_namespaces" expanded="True">
+            <Node name="05_namespaces" expanded="True">
+              <Node name="Console.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

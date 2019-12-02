@@ -1,0 +1,11 @@
+/Users/mark/Projects/02_object_oriented_programming/06_constructors/06_constructors/bin/Debug/netcoreapp3.0/06_constructors
+/Users/mark/Projects/02_object_oriented_programming/06_constructors/06_constructors/bin/Debug/netcoreapp3.0/06_constructors.deps.json
+/Users/mark/Projects/02_object_oriented_programming/06_constructors/06_constructors/bin/Debug/netcoreapp3.0/06_constructors.runtimeconfig.json
+/Users/mark/Projects/02_object_oriented_programming/06_constructors/06_constructors/bin/Debug/netcoreapp3.0/06_constructors.runtimeconfig.dev.json
+/Users/mark/Projects/02_object_oriented_programming/06_constructors/06_constructors/bin/Debug/netcoreapp3.0/06_constructors.dll
+/Users/mark/Projects/02_object_oriented_programming/06_constructors/06_constructors/bin/Debug/netcoreapp3.0/06_constructors.pdb
+/Users/mark/Projects/02_object_oriented_programming/06_constructors/06_constructors/obj/Debug/netcoreapp3.0/06_constructors.csprojAssemblyReference.cache
+/Users/mark/Projects/02_object_oriented_programming/06_constructors/06_constructors/obj/Debug/netcoreapp3.0/06_constructors.AssemblyInfoInputs.cache
+/Users/mark/Projects/02_object_oriented_programming/06_constructors/06_constructors/obj/Debug/netcoreapp3.0/06_constructors.AssemblyInfo.cs
+/Users/mark/Projects/02_object_oriented_programming/06_constructors/06_constructors/obj/Debug/netcoreapp3.0/06_constructors.dll
+/Users/mark/Projects/02_object_oriented_programming/06_constructors/06_constructors/obj/Debug/netcoreapp3.0/06_constructors.pdb
