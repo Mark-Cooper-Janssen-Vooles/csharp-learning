@@ -1,0 +1,11 @@
+/Users/mark/Projects/03_errors_and_debugging/01_exception_handling/01_exception_handling/bin/Debug/netcoreapp3.0/01_exception_handling
+/Users/mark/Projects/03_errors_and_debugging/01_exception_handling/01_exception_handling/bin/Debug/netcoreapp3.0/01_exception_handling.deps.json
+/Users/mark/Projects/03_errors_and_debugging/01_exception_handling/01_exception_handling/bin/Debug/netcoreapp3.0/01_exception_handling.runtimeconfig.json
+/Users/mark/Projects/03_errors_and_debugging/01_exception_handling/01_exception_handling/bin/Debug/netcoreapp3.0/01_exception_handling.runtimeconfig.dev.json
+/Users/mark/Projects/03_errors_and_debugging/01_exception_handling/01_exception_handling/bin/Debug/netcoreapp3.0/01_exception_handling.dll
+/Users/mark/Projects/03_errors_and_debugging/01_exception_handling/01_exception_handling/bin/Debug/netcoreapp3.0/01_exception_handling.pdb
+/Users/mark/Projects/03_errors_and_debugging/01_exception_handling/01_exception_handling/obj/Debug/netcoreapp3.0/01_exception_handling.csprojAssemblyReference.cache
+/Users/mark/Projects/03_errors_and_debugging/01_exception_handling/01_exception_handling/obj/Debug/netcoreapp3.0/01_exception_handling.AssemblyInfoInputs.cache
+/Users/mark/Projects/03_errors_and_debugging/01_exception_handling/01_exception_handling/obj/Debug/netcoreapp3.0/01_exception_handling.AssemblyInfo.cs
+/Users/mark/Projects/03_errors_and_debugging/01_exception_handling/01_exception_handling/obj/Debug/netcoreapp3.0/01_exception_handling.dll
+/Users/mark/Projects/03_errors_and_debugging/01_exception_handling/01_exception_handling/obj/Debug/netcoreapp3.0/01_exception_handling.pdb

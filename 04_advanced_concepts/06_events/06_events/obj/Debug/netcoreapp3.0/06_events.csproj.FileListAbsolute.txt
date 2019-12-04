@@ -1,0 +1,11 @@
+/Users/mark/Projects/04_advanced_concepts/06_events/06_events/bin/Debug/netcoreapp3.0/06_events
+/Users/mark/Projects/04_advanced_concepts/06_events/06_events/bin/Debug/netcoreapp3.0/06_events.deps.json
+/Users/mark/Projects/04_advanced_concepts/06_events/06_events/bin/Debug/netcoreapp3.0/06_events.runtimeconfig.json
+/Users/mark/Projects/04_advanced_concepts/06_events/06_events/bin/Debug/netcoreapp3.0/06_events.runtimeconfig.dev.json
+/Users/mark/Projects/04_advanced_concepts/06_events/06_events/bin/Debug/netcoreapp3.0/06_events.dll
+/Users/mark/Projects/04_advanced_concepts/06_events/06_events/bin/Debug/netcoreapp3.0/06_events.pdb
+/Users/mark/Projects/04_advanced_concepts/06_events/06_events/obj/Debug/netcoreapp3.0/06_events.csprojAssemblyReference.cache
+/Users/mark/Projects/04_advanced_concepts/06_events/06_events/obj/Debug/netcoreapp3.0/06_events.AssemblyInfoInputs.cache
+/Users/mark/Projects/04_advanced_concepts/06_events/06_events/obj/Debug/netcoreapp3.0/06_events.AssemblyInfo.cs
+/Users/mark/Projects/04_advanced_concepts/06_events/06_events/obj/Debug/netcoreapp3.0/06_events.dll
+/Users/mark/Projects/04_advanced_concepts/06_events/06_events/obj/Debug/netcoreapp3.0/06_events.pdb

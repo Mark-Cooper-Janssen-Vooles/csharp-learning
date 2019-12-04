@@ -1,0 +1,11 @@
+/Users/mark/Projects/04_advanced_concepts/07_abstract_classes/07_abstract_classes/bin/Debug/netcoreapp3.0/07_abstract_classes
+/Users/mark/Projects/04_advanced_concepts/07_abstract_classes/07_abstract_classes/bin/Debug/netcoreapp3.0/07_abstract_classes.deps.json
+/Users/mark/Projects/04_advanced_concepts/07_abstract_classes/07_abstract_classes/bin/Debug/netcoreapp3.0/07_abstract_classes.runtimeconfig.json
+/Users/mark/Projects/04_advanced_concepts/07_abstract_classes/07_abstract_classes/bin/Debug/netcoreapp3.0/07_abstract_classes.runtimeconfig.dev.json
+/Users/mark/Projects/04_advanced_concepts/07_abstract_classes/07_abstract_classes/bin/Debug/netcoreapp3.0/07_abstract_classes.dll
+/Users/mark/Projects/04_advanced_concepts/07_abstract_classes/07_abstract_classes/bin/Debug/netcoreapp3.0/07_abstract_classes.pdb
+/Users/mark/Projects/04_advanced_concepts/07_abstract_classes/07_abstract_classes/obj/Debug/netcoreapp3.0/07_abstract_classes.csprojAssemblyReference.cache
+/Users/mark/Projects/04_advanced_concepts/07_abstract_classes/07_abstract_classes/obj/Debug/netcoreapp3.0/07_abstract_classes.AssemblyInfoInputs.cache
+/Users/mark/Projects/04_advanced_concepts/07_abstract_classes/07_abstract_classes/obj/Debug/netcoreapp3.0/07_abstract_classes.AssemblyInfo.cs
+/Users/mark/Projects/04_advanced_concepts/07_abstract_classes/07_abstract_classes/obj/Debug/netcoreapp3.0/07_abstract_classes.dll
+/Users/mark/Projects/04_advanced_concepts/07_abstract_classes/07_abstract_classes/obj/Debug/netcoreapp3.0/07_abstract_classes.pdb

@@ -1,0 +1,11 @@
+/Users/mark/Projects/04_advanced_concepts/03_out_parameter/03_out_parameter/bin/Debug/netcoreapp3.0/03_out_parameter
+/Users/mark/Projects/04_advanced_concepts/03_out_parameter/03_out_parameter/bin/Debug/netcoreapp3.0/03_out_parameter.deps.json
+/Users/mark/Projects/04_advanced_concepts/03_out_parameter/03_out_parameter/bin/Debug/netcoreapp3.0/03_out_parameter.runtimeconfig.json
+/Users/mark/Projects/04_advanced_concepts/03_out_parameter/03_out_parameter/bin/Debug/netcoreapp3.0/03_out_parameter.runtimeconfig.dev.json
+/Users/mark/Projects/04_advanced_concepts/03_out_parameter/03_out_parameter/bin/Debug/netcoreapp3.0/03_out_parameter.dll
+/Users/mark/Projects/04_advanced_concepts/03_out_parameter/03_out_parameter/bin/Debug/netcoreapp3.0/03_out_parameter.pdb
+/Users/mark/Projects/04_advanced_concepts/03_out_parameter/03_out_parameter/obj/Debug/netcoreapp3.0/03_out_parameter.csprojAssemblyReference.cache
+/Users/mark/Projects/04_advanced_concepts/03_out_parameter/03_out_parameter/obj/Debug/netcoreapp3.0/03_out_parameter.AssemblyInfoInputs.cache
+/Users/mark/Projects/04_advanced_concepts/03_out_parameter/03_out_parameter/obj/Debug/netcoreapp3.0/03_out_parameter.AssemblyInfo.cs
+/Users/mark/Projects/04_advanced_concepts/03_out_parameter/03_out_parameter/obj/Debug/netcoreapp3.0/03_out_parameter.dll
+/Users/mark/Projects/04_advanced_concepts/03_out_parameter/03_out_parameter/obj/Debug/netcoreapp3.0/03_out_parameter.pdb

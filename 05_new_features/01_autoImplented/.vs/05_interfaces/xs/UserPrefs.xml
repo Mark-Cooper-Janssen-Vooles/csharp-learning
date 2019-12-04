@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2F940773-BAE7-4503-B823-72C225CBCEC7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="05_interfaces/Teacher.cs">
+    <Files>
+      <File FileName="05_interfaces/Program.cs" Line="115" Column="10" />
+      <File FileName="05_interfaces/Util.cs" Line="16" Column="10" />
+      <File FileName="05_interfaces/Principal.cs" Line="7" Column="10" />
+      <File FileName="05_interfaces/Teacher.cs" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="05_interfaces" expanded="True">
+            <Node name="05_interfaces" expanded="True">
+              <Node name="Teacher.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.05__interfaces PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

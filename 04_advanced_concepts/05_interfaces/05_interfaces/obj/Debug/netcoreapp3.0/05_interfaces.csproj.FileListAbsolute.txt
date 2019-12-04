@@ -1,0 +1,11 @@
+/Users/mark/Projects/04_advanced_concepts/05_interfaces/05_interfaces/bin/Debug/netcoreapp3.0/05_interfaces
+/Users/mark/Projects/04_advanced_concepts/05_interfaces/05_interfaces/bin/Debug/netcoreapp3.0/05_interfaces.deps.json
+/Users/mark/Projects/04_advanced_concepts/05_interfaces/05_interfaces/bin/Debug/netcoreapp3.0/05_interfaces.runtimeconfig.json
+/Users/mark/Projects/04_advanced_concepts/05_interfaces/05_interfaces/bin/Debug/netcoreapp3.0/05_interfaces.runtimeconfig.dev.json
+/Users/mark/Projects/04_advanced_concepts/05_interfaces/05_interfaces/bin/Debug/netcoreapp3.0/05_interfaces.dll
+/Users/mark/Projects/04_advanced_concepts/05_interfaces/05_interfaces/bin/Debug/netcoreapp3.0/05_interfaces.pdb
+/Users/mark/Projects/04_advanced_concepts/05_interfaces/05_interfaces/obj/Debug/netcoreapp3.0/05_interfaces.csprojAssemblyReference.cache
+/Users/mark/Projects/04_advanced_concepts/05_interfaces/05_interfaces/obj/Debug/netcoreapp3.0/05_interfaces.AssemblyInfoInputs.cache
+/Users/mark/Projects/04_advanced_concepts/05_interfaces/05_interfaces/obj/Debug/netcoreapp3.0/05_interfaces.AssemblyInfo.cs
+/Users/mark/Projects/04_advanced_concepts/05_interfaces/05_interfaces/obj/Debug/netcoreapp3.0/05_interfaces.dll
+/Users/mark/Projects/04_advanced_concepts/05_interfaces/05_interfaces/obj/Debug/netcoreapp3.0/05_interfaces.pdb

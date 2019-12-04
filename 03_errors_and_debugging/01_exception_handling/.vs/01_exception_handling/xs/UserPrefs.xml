@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A3E08D2B-2333-4940-9297-E3A98E26779F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="01_exception_handling/EmptyClass.cs">
+    <Files>
+      <File FileName="01_exception_handling/EmptyClass.cs" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="01_exception_handling" expanded="True">
+            <Node name="01_exception_handling" expanded="True">
+              <Node name="EmptyClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.01__exception__handling PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

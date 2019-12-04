@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{31BDC1CC-975D-4D5E-A45F-CA16A4AAF953}|Default">
+  <MonoDevelop.Ide.ItemProperties.02__debugging__breakpoints PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02_debugging_breakpoints/Program.cs">
+    <Files>
+      <File FileName="02_debugging_breakpoints/Program.cs" Line="19" Column="1" />
+      <File FileName="02_debugging_breakpoints/EmptyClass.cs" Line="21" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="02_debugging_breakpoints" expanded="True">
+            <Node name="02_debugging_breakpoints" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mark/Projects/03_errors_and_debugging/02_debugging_breakpoints/02_debugging_breakpoints/Program.cs" relfile="02_debugging_breakpoints/Program.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

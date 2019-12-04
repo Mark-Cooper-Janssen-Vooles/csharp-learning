@@ -1,0 +1,11 @@
+/Users/mark/Projects/04_advanced_concepts/01_enumerators/01_enumerators/bin/Debug/netcoreapp3.0/01_enumerators
+/Users/mark/Projects/04_advanced_concepts/01_enumerators/01_enumerators/bin/Debug/netcoreapp3.0/01_enumerators.deps.json
+/Users/mark/Projects/04_advanced_concepts/01_enumerators/01_enumerators/bin/Debug/netcoreapp3.0/01_enumerators.runtimeconfig.json
+/Users/mark/Projects/04_advanced_concepts/01_enumerators/01_enumerators/bin/Debug/netcoreapp3.0/01_enumerators.runtimeconfig.dev.json
+/Users/mark/Projects/04_advanced_concepts/01_enumerators/01_enumerators/bin/Debug/netcoreapp3.0/01_enumerators.dll
+/Users/mark/Projects/04_advanced_concepts/01_enumerators/01_enumerators/bin/Debug/netcoreapp3.0/01_enumerators.pdb
+/Users/mark/Projects/04_advanced_concepts/01_enumerators/01_enumerators/obj/Debug/netcoreapp3.0/01_enumerators.csprojAssemblyReference.cache
+/Users/mark/Projects/04_advanced_concepts/01_enumerators/01_enumerators/obj/Debug/netcoreapp3.0/01_enumerators.AssemblyInfoInputs.cache
+/Users/mark/Projects/04_advanced_concepts/01_enumerators/01_enumerators/obj/Debug/netcoreapp3.0/01_enumerators.AssemblyInfo.cs
+/Users/mark/Projects/04_advanced_concepts/01_enumerators/01_enumerators/obj/Debug/netcoreapp3.0/01_enumerators.dll
+/Users/mark/Projects/04_advanced_concepts/01_enumerators/01_enumerators/obj/Debug/netcoreapp3.0/01_enumerators.pdb
