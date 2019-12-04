@@ -14,9 +14,20 @@ namespace interfaces
     class Program
     {
         static List<Student> students = new List<Student>();
-
         static void Main(string[] args)
         {
+            //added logger info
+            //Logger.Log("Tracker started");
+
+            //if you wanted to change the priorty, the order matters:
+            //Logger.Log("Tracker started", 0);
+            //can't do the above because its trying to change the system to 0 and it errors since 0 isn't a string.
+
+            //forced to set the system name, even if we want to use the default. to get around that we can use:
+            //you type the "named argument", the name of the argument, and a colon. like shown:
+            //then it doesn't matter what order arguments are in!
+            Logger.Log("Tracker started", priority: 0);
+
             PayRoll payroll = new PayRoll();
             payroll.PayAll();
 
@@ -26,6 +37,8 @@ namespace interfaces
             {
                 try
                 {
+
+                    Logger.Log("Adding new student.");
                     var newStudent = new Student();
 
                     newStudent.Name = Util.Console.Ask("Student Name: ");
@@ -43,9 +56,7 @@ namespace interfaces
                     Console.WriteLine("Add another y/n");
 
                     if (Console.ReadLine() != "y")
-                    {
                         adding = false;
-                    }
                 }
                 catch (FormatException msg)
                 {
@@ -58,8 +69,7 @@ namespace interfaces
 
             }
 
- 
-                ShowGrade("Tom");
+            ShowGrade("Tom");
 
             foreach (var student in students)
             {
@@ -93,41 +103,9 @@ namespace interfaces
             }
         }
 
-        //school client wants search functionality, wants to search students by name and display their grade. We'll use the build-in find feature, that comes with collections.
-        //static void ShowGrade(string name)
-        //{
-        //    //need to pass a 'predicate' into find: a predicate is a function that always returns a boolean. i.e. true if the studnt has been found.
-        //    var found = students.Find(predicate);
-        //    Console.WriteLine("{0}'s Grade: {1}", found.Name, found.Grade);
-        //}
-
-        //static bool predicate(Student student)
-        //{
-        //    if (student.Name == "Jim")
-        //        return true;
-        //    else
-        //        return false;
-        //}
-
-        //above can be reworked to:
-        //static bool predicate(Student student)
-        //{
-        //    return (student.Name == "Jim");
-        //}
-        //which can be put into show grade itself... doesn't warrant its own function, instead can use a lambda.
-
         static void ShowGrade(string name)
         {
-            //below is called a lamba (a function as an argument written directly in).
-            //var found = students.Find((student) =>
-            //    {
-            //        return (student.Name == "Jim");
-            //    });
-
-            //can be refactored to:
             var found = students.Find(student => student.Name == name);
-            //a lambda is an anonymous function with short syntax, very convenient to use.
-
             Console.WriteLine("{0}'s Grade: {1}", found.Name, found.Grade);
         }
 
